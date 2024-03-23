@@ -3,10 +3,10 @@ import random
 import json
 import boto3
 
-AWSKEY = 'AKIA4MTWIDUW6XKUYYIW'
-AWSSECRET = '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'
-PUBLIC_BUCKET = "jhilditch-web-public"
-STORAGE_URL = "http://jhilditch-web-public.s3-website-us-east-1.amazonaws.com"
+AWSKEY = '' # removed for privacy
+AWSSECRET = ''# removed for privacy
+PUBLIC_BUCKET = ""# removed for privacy
+STORAGE_URL = ""# removed for privacy
 
 app = Flask(__name__)
 
