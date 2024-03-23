@@ -1,0 +1,52 @@
+[
+    {"title" : "Moldy basement dwelling in Bushwick, Brooklyn",
+    "description" : "Absoluetly no natural light and the bathroom only sort of works. Apartment is also prone to flooding.",
+    "bedrooms": 1,
+    "rent" : 1000},
+
+    {"title" : "One of those super skinny but long apartments in LES",
+    "description" : "Odd layout due to dimensions, but you get a private backyard, so theres that.",
+    "bedrooms" : 3,
+    "rent" : 8000},
+
+    {"title": "Fancy spot in Greenpoint with all the stuff you can ask for",
+    "description": "stuff about appliances...., outdoor space, (insert casual lying by broker/landlord here)"  ,
+    "bedrooms": 2 ,
+    "rent": 7625},
+
+    {"title": "Very rare opportunity to lease quiet space in limestone townhouse for home or office" ,
+    "description": "steps from Park and Museum Mile. -Absolute Best Studio Separate entrance from street." ,
+    "bedrooms" : 1 ,
+    "rent": 5950},
+
+    {"title" : "True 2 bederoom on St.James place.",
+     "description": "Loads of natural light and storage space yatta yatta yatta",
+     "bedrooms" : 2,
+     "rent" : 2800},
+
+    {"title":"3 Bedroom, 1 Bath apartment plus a full length balcony with great view." ,
+    "description": "Nice and spacious spot on Canal street." ,
+    "bedrooms":3 ,
+    "rent": 5800},
+
+    {"title":"2BR located in JC Heights" ,
+    "description": "One of 46 units in the newly constructed lumber house" ,
+    "bedrooms": 2,
+    "rent": 3515},
+
+    {"title": "Hoboken 2BR",
+    "description": "Move into this renovated Midtown Hoboken 2 BR rental located close to the waterfront." ,
+    "bedrooms": 2,
+    "rent": 3528},
+
+    {"title": "Make-shift Shelter" ,
+    "description": "Do you have what it takes?" ,
+    "bedrooms":1 ,
+    "rent": 0},
+
+    {"title":"Staten Island lol" ,
+    "description":"Available is a recently renovated 2bedroom 1bathroom apartment located in Staten Island." ,
+    "bedrooms":2 ,
+    "rent": 2500}
+
+]
